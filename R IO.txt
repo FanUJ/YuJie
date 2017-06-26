@@ -1,0 +1,3 @@
+out = as.character.RuleSetRST(RULE_dt)
+write.csv(out,"out.csv")
+save.image()
